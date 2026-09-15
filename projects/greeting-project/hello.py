@@ -6,3 +6,4 @@ print(f"Hello, {name}! Welcome to {major} department.")
 
 if __name__ == "__main__":
 greet_user()
+
