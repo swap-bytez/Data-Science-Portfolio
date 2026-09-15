@@ -8,4 +8,6 @@ This Python program asks the user for their name and displays a personalized gre
 - GitHub
 - Markdown
 ## What I Learned
-[Complete this section after finishing the activity.]
+I figured out how to organize a GitHub repository, write a Python script that asks for user input, and check my old work using commit history
+## Future Improvements
+If I continued working on this project, I would add the project I will work on in near future. 
