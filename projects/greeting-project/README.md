@@ -8,3 +8,4 @@ This Python program asks the user for their name and displays a personalized gre
 - GitHub
 - Markdown
 ## What I Learned
+[Complete this section after finishing the activity.]
